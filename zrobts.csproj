@@ -9,6 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="System.Management" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="Assets\logo_zero_bytes.ico" />
     <None Remove="Fonts\JetBrainsMono-Regular.ttf" />
   </ItemGroup>
